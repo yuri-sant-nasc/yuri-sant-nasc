@@ -18,7 +18,7 @@ Me chamo Yuri dos Santos Nascimento, sou estudante de GTI e trago aqui um pouco 
    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-sant-nasc&layout=donut-vertical)](https://github.com/yuri-sant-nasc/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuri-sant-nasc&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Meu Contatos:
 📧E-mail: yuri.santosyks@gmail.com
